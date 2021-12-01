@@ -1,6 +1,6 @@
 # see project in
 
-[https://neiderbtc.github.io/landing-page/](https://neiderbtc.github.io/landing-page/)
+[https://neiderruiz.github.io/landing-page/](https://neiderbtc.github.io/landing-page/)
 
 # Landing page Reactjs
 
